@@ -88,6 +88,7 @@ contents:
     - libxml2
     - libzip5
     - nextcloud-34=34.0.4-0
+    - perl-base
     - php-8.5-fpm=8.5.11-0
     - php-8.5-oci-config
     - php-8.5=8.5.11-0
